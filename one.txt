@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Flowers, Fruites
 
 second change in main
+=======
+Different update in new_branch1
+>>>>>>> new_branch1
